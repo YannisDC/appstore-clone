@@ -2,17 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "light-close-button.png",
+      "filename" : "icn_cross_dark.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "light-close-button@2x.png",
+      "filename" : "icn_cross_dark@2x.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "filename" : "light-close-button@3x.png",
+      "filename" : "icn_cross_dark@3x.png",
       "scale" : "3x"
     }
   ],

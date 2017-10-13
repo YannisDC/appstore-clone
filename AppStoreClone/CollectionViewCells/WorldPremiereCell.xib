@@ -98,7 +98,7 @@
                 <outlet property="titleLabel" destination="ncu-YN-Usv" id="6Fv-pa-Bvx"/>
                 <outlet property="typeLabel" destination="zsI-hN-uaP" id="pN2-JF-wwb"/>
             </connections>
-            <point key="canvasLocation" x="174" y="161"/>
+            <point key="canvasLocation" x="173.5" y="161"/>
         </collectionViewCell>
     </objects>
     <resources>

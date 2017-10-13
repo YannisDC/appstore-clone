@@ -7,5 +7,6 @@ target 'AppStoreClone' do
 
   # Pods for AppStoreClone
   pod 'Reveal-SDK', :configurations => ['Debug']
+  pod "MarkdownKit"
 
 end
