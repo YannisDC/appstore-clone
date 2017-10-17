@@ -178,8 +178,8 @@
 			children = (
 				F70D31E91EF5EE4400DC3326 /* GradientView.swift */,
 				F7F0F1621EF5EAEF00D73E20 /* BaseView.swift */,
-				F7F0F1661EF5EB3900D73E20 /* UIView+Constraints.swift */,
 				F70D31F21EF60B5700DC3326 /* Reusable.swift */,
+				F7F0F1661EF5EB3900D73E20 /* UIView+Constraints.swift */,
 				F70D31F01EF60B3100DC3326 /* UICollectionView+Reusable.swift */,
 				DE61C23F1F8E060F00AE564C /* UILabel+FontLayout.swift */,
 			);

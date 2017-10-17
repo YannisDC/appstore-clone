@@ -44,6 +44,7 @@
                     <connections>
                         <outlet property="collectionView" destination="PCm-A0-gVF" id="AHR-0P-Xig"/>
                         <segue destination="urk-bB-7gL" kind="presentation" identifier="presentStory" id="eVb-GV-bhV"/>
+                        <segue destination="mhe-K9-59H" kind="presentation" identifier="presentDetail" id="yzn-hd-dUq"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -112,7 +113,7 @@
                                                     <constraint firstAttribute="width" constant="20" id="4P7-Fc-QBZ"/>
                                                     <constraint firstAttribute="height" constant="20" id="SZL-oU-xln"/>
                                                 </constraints>
-                                                <state key="normal" image="light-close-button"/>
+                                                <state key="normal" image="icn_cross_dark"/>
                                                 <connections>
                                                     <action selector="closeButtonDidPress:" destination="urk-bB-7gL" eventType="touchUpInside" id="zyZ-T4-WjN"/>
                                                 </connections>
@@ -203,7 +204,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="light-close-button" width="40" height="40"/>
+        <image name="icn_cross_dark" width="13" height="12"/>
         <image name="monument-valley" width="675" height="900"/>
     </resources>
 </document>
